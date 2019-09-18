@@ -1,6 +1,6 @@
 export default class calculator {
   static Sum(a: number, b: number): number {
-    let c = a + b;
+    let c = a + b + 1;
     return c;
   }
 
