@@ -10,6 +10,7 @@ export default class calculator {
   }
 
   static Time(a: number, b: number): number {
+    //m2
     let c = a * b;
     return c;
   }
