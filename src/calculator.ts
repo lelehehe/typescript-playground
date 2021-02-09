@@ -18,5 +18,7 @@ export default class calculator {
     let c = a / b;
     return c;
   }
+
+  //c1
   
 }
