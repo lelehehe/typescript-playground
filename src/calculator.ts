@@ -9,6 +9,10 @@ export default class calculator {
     return c;
   }
 
+  static Time(a: number, b: number): number {
+    let c = a * b;
+    return c;
+  }
   static Divide(a: number, b: number): number {
     let c = a / b;
     return c;
