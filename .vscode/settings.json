@@ -1,0 +1,11 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.validate": [
+    "javascript"
+  ],
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "cSpell.enabled": true,
+}

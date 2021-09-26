@@ -1,7 +1,16 @@
-# typescript-playground
+## how to run the project
 
-need an extension:
-<https://github.com/hagishi/vscode-ts-debug>
+`npm i`
+`jest`
+or you can run `node myMain.ts` if you want to play with this.
+## jest test tools
+deepEqual is used to make unit test verifications simple and clean. 
+For this project, you can debug into unit tests in vscode.
 
-using quokka: 
-'run on save with current file'
+## Calculate fixed Expenses Before Education
+based on the business requirement, the expense is combined with getNonHousingExpenses() and getHousingExpenses()
+
+## Test coverage status
+100% test covered. 
+To make it simple, I just created a few sample tests. This is not a production code. 
+
